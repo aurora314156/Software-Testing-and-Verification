@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.github.davidmoten.geo.CoverageLongsTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2018-04-25T14:52:42" hostname="wuchengxuande-MacBook-Pro.local" time="0.005">
+  <properties/>
+  <testcase name="getNotEqualHash" classname="com.github.davidmoten.geo.CoverageLongsTest" time="0.001"/>
+  <testcase name="positiveRatio" classname="com.github.davidmoten.geo.CoverageLongsTest" time="0.0"/>
+  <testcase name="negativeRatio" classname="com.github.davidmoten.geo.CoverageLongsTest" time="0.0"/>
+  <testcase name="zeroRatio" classname="com.github.davidmoten.geo.CoverageLongsTest" time="0.0"/>
+  <testcase name="getEqualHash" classname="com.github.davidmoten.geo.CoverageLongsTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

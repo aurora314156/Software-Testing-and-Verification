@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.github.davidmoten.geo.LatLongTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-04-25T14:52:42" hostname="wuchengxuande-MacBook-Pro.local" time="0.001">
+  <properties/>
+  <testcase name="zeroAdd" classname="com.github.davidmoten.geo.LatLongTest" time="0.0"/>
+  <testcase name="positiveAdd" classname="com.github.davidmoten.geo.LatLongTest" time="0.001"/>
+  <testcase name="negativeAdd" classname="com.github.davidmoten.geo.LatLongTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

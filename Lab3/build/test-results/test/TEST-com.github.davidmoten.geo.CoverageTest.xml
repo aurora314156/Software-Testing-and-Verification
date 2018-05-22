@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.github.davidmoten.geo.CoverageTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2018-04-25T14:52:42" hostname="wuchengxuande-MacBook-Pro.local" time="0.009">
+  <properties/>
+  <testcase name="positiveRatio" classname="com.github.davidmoten.geo.CoverageTest" time="0.004"/>
+  <testcase name="negativeRatio" classname="com.github.davidmoten.geo.CoverageTest" time="0.001"/>
+  <testcase name="zeroRatio" classname="com.github.davidmoten.geo.CoverageTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

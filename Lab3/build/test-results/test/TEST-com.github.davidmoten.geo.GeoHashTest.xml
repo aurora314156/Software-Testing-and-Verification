@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.github.davidmoten.geo.GeoHashTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2018-04-25T14:52:42" hostname="wuchengxuande-MacBook-Pro.local" time="0.036">
+  <properties/>
+  <testcase name="ZeroEncodeHashOnePar" classname="com.github.davidmoten.geo.GeoHashTest" time="0.026"/>
+  <testcase name="negativeEncodeHashOnePar" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="encodeHashToLong" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="adjacentHashThreePar" classname="com.github.davidmoten.geo.GeoHashTest" time="0.004"/>
+  <testcase name="negativeEncodeHash" classname="com.github.davidmoten.geo.GeoHashTest" time="0.001"/>
+  <testcase name="positiveEncodeHash" classname="com.github.davidmoten.geo.GeoHashTest" time="0.001"/>
+  <testcase name="top" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="right" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="zeroEncodeHash" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="adjacentHashThreePar1" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <testcase name="positiveEncodeHashOnePar" classname="com.github.davidmoten.geo.GeoHashTest" time="0.001"/>
+  <testcase name="fromLongToString" classname="com.github.davidmoten.geo.GeoHashTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
