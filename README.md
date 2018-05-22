@@ -1,7 +1,7 @@
 # Software-Testing-and-Verification
 This repository is for Software Testing and Verification course of NTUT 2018 homework backup.
 
-----
+
 ## Include
 -  Software testing tools or library (e.g. JUnit)
 -  Test case design (e.g. input space partitioning)
@@ -10,7 +10,7 @@ This repository is for Software Testing and Verification course of NTUT 2018 hom
 -  Test plan report
 
 
-----
+
 ## Environments
 
 + Lab1 ~ Lab3
@@ -23,6 +23,6 @@ This repository is for Software Testing and Verification course of NTUT 2018 hom
   + Selenium
 
 
-----
+
 ## License
 MIT
